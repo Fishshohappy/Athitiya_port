@@ -172,11 +172,7 @@ a {
   gap: 1rem;
   grid-template-columns: repeat(var(--col), 1fr);
 }
-/* @media screen and (max-width: 700px) {
-  .row {
-    background-color: red;
-  }
-} */
+
 .row responsive {
   padding: 20px;
   display: grid;
