@@ -187,7 +187,6 @@ a {
   box-sizing: border-box;
   line-height: 70px;
   transition: 0.5s;
-  /* width: 390px; */
 }
 .subject {
   background-color: #f9c7ab;
@@ -207,11 +206,13 @@ a {
   padding: 30px 2px;
 }
 .about-col img {
-  width: 100%;
+  width: 75%;
 }
 .about-col p {
-  padding: 15px 0 25px;
+  padding: 25px 0 25px;
   color: #00000092;
+  text-align: left;
+  line-height: 35px;
 }
 .mypic {
   width: 60%;
@@ -358,4 +359,9 @@ i.fa {
   width: 2110px;
   height: fit-content;
   overflow-y: hidden;
+}
+.owl-carousel img {
+  display: block;
+  width: 100%;
+  object-fit: contain;
 }
