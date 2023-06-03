@@ -383,4 +383,7 @@ p {
   .edu p {
     font-size: 100%;
   }
+  .column1 p {
+    font-size: 130%;
+  }
 }
