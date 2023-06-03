@@ -127,7 +127,8 @@ a {
   width: 90%;
   margin: auto;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 .title {
   animation: gradient 1s ease infinite;
@@ -199,7 +200,8 @@ a {
   width: 90%;
   margin: auto;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 .about-col {
   flex-basis: 48%;
@@ -294,7 +296,7 @@ a {
   width: 90%;
   margin: auto;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 5rem;
   padding-bottom: 5rem;
 }
 /*-----------img slide--------*/
