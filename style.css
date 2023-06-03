@@ -380,4 +380,7 @@ p {
   .text-box h1 {
     font-size: 200%;
   }
+  .edu p {
+    font-size: 100%;
+  }
 }
