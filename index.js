@@ -18,6 +18,7 @@ window.addEventListener('resize', function () {
         row2.classList.add('row')
     }
 })
+่
 
 
 
